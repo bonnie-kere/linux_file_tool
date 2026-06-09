@@ -3,7 +3,7 @@
 
 #include "filetool.h"
 
-static int main(int argc, char const *argv[])
+int main(int argc, char const *argv[])
 {
     printf("test\n");
     return 0;
